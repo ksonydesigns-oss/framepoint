@@ -1,7 +1,8 @@
-import FramePointShell from "./FramePointShell";
+import FramePointShellCopy from "./FramePointShellCopy";
+import "./App.css";
 
 function App() {
-  return <FramePointShell />;
+  return <FramePointShellCopy />;
 }
 
 export default App;
